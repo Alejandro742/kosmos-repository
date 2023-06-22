@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kosmos-repository/static/css/main.a26ff367.css",
+    "main.js": "/kosmos-repository/static/js/main.3443f535.js",
+    "index.html": "/kosmos-repository/index.html",
+    "main.a26ff367.css.map": "/kosmos-repository/static/css/main.a26ff367.css.map",
+    "main.3443f535.js.map": "/kosmos-repository/static/js/main.3443f535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26ff367.css",
+    "static/js/main.3443f535.js"
+  ]
+}
